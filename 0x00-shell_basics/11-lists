@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lanu \. .. /boot
+ls -la . .. /boot
